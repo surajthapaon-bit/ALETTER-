@@ -1,0 +1,47 @@
+{
+  "title": "the archive.",
+  "subtitle": "the map. the letter is the voice.",
+  "pages": [
+    {
+      "id": "index",
+      "heading": "on the desk.",
+      "body": [
+        "This book is not the letter.",
+        "The letter is the thing that had to be said in one sitting, in one voice, without a way back into the fog.",
+        "These pages are only the map of the same night. Notes from the same desk. The same lamp. The same rain.",
+        "If you found this, you can put it back. Nothing here needs an answer."
+      ]
+    },
+    {
+      "id": "floor",
+      "heading": "the floor.",
+      "body": [
+        "Intensity is easy. It arrives like weather and leaves like weather.",
+        "The floor is the Tuesday. The same person in the morning as in the dark. The line that does not move when it would be convenient to move it.",
+        "Warmth without a floor is a truce. A truce is not a home.",
+        "I did not learn this in time to keep from hurting someone. I learned it in time to stop abandoning myself."
+      ]
+    },
+    {
+      "id": "fog",
+      "heading": "the fog.",
+      "body": [
+        "Fog is not distance. Fog is closeness that will not tell the truth.",
+        "You can live in it for a long time and call it patience. You can call it love. You can call it giving space.",
+        "It is none of those. It is the refusal to pick up what is already on the floor.",
+        "Leaving the fog is not the same as leaving a person. It is the same as staying in the room as yourself."
+      ]
+    },
+    {
+      "id": "humanity",
+      "heading": "without losing my humanity.",
+      "body": [
+        "The work was never to become someone colder.",
+        "The work was to stop disappearing, stop chasing, stop managing a heart as if it were a project — and still remain kind.",
+        "To tell the truth without turning it into a weapon.",
+        "To leave a door open onto reality, and not stand in the doorway forever.",
+        "That is the whole archive, underneath every page. The letter is just the part that had a name."
+      ]
+    }
+  ]
+}

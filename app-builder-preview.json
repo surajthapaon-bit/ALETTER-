@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "A Letter",
+      "hasCanvas": false,
+      "bodyTextLen": 190,
+      "bodyTextHash": "cf489bc31b43eeddb33059befc1d509ffadbbbc566efa692744bf33f2700c1b1",
+      "bodyTextPrefix": "A Letter You found the door. Enter slowly. What's inside was wri",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "A Letter",
+      "hasCanvas": false,
+      "bodyTextLen": 190,
+      "bodyTextHash": "cf489bc31b43eeddb33059befc1d509ffadbbbc566efa692744bf33f2700c1b1",
+      "bodyTextPrefix": "A Letter You found the door. Enter slowly. What's inside was wri",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
